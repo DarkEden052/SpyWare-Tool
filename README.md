@@ -17,7 +17,7 @@ Installation
 
 #Clone this repository:
 bash
-git clone https://github.com/yourusername/spyware-tool.git
+git clone https://github.com/DarkEden052/spyware-tool.git
 cd spyware-tool
 
 #Install required dependencies:
